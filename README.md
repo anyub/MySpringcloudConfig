@@ -1,0 +1,2 @@
+# MySpringcloudConfig
+Springcloud测试获取github的配置文件
